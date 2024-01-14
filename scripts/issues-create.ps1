@@ -1,8 +1,8 @@
 # Création des issue : Publication des éléments dé backlog comme issues
 
+# Encoding utf8
 $PSDefaultParameterValues['Out-File:Encoding'] = 'utf8'
 $PSDefaultParameterValues['*:Encoding'] = 'utf8'
-
 $prev = [Console]::OutputEncoding
 [Console]::OutputEncoding = [System.Text.UTF8Encoding]::new()
 
@@ -40,6 +40,7 @@ function find_issue_by_title($title){
 # $issue_test = find_issue_by_title("suivi-réalisation-labs-web")
 # Write-Host( $issue_test)
 
+confirm_to_continue("Update or Create issues")
 
 Get-ChildItem "$lab_web_path/backlog" -Filter *.md | 
 Foreach-Object {
@@ -60,14 +61,16 @@ Foreach-Object {
     if( $item_name_array.Length -eq 3 ) { 
         $issue_titre = $item_name_array[1]
         $issue_number = $item_name_array[0]
-        confirm_to_continue("Update de l'issue $issue_titre ")
-        gh issue edit $issue_number --add-label feature,new_issue --body-file $item_full_name
+        Write-Host("Update de l'issue $issue_titre ")
+        # confirm_to_continue("Update de l'issue $issue_titre ")
+        gh issue edit $issue_number --add-label feature,new_issue --add-project labs-web --body-file $item_full_name
     }else{
 
         # Create issue
         $issue_titre = $item_name_array[0]
-        confirm_to_continue("Création de l'issue : $issue_titre ")
-        gh issue create --title $issue_titre  --body-file $item_full_name
+        Write-Host("Création de l'issue : $issue_titre ")
+        # confirm_to_continue("Création de l'issue : $issue_titre ")
+        gh issue create --title $issue_titre --add-label feature,new_issue --project labs-web  --body-file $item_full_name
         
         # Update item file name
         $created_issue = find_issue_by_title($issue_titre)
