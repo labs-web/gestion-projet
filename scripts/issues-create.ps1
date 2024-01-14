@@ -1,5 +1,9 @@
 # Création des issue : Publication des éléments dé backlog comme issues
 
+
+$project_name = "labs-web"
+$project_name = "solicoders_planning"
+
 # Encoding utf8
 $PSDefaultParameterValues['Out-File:Encoding'] = 'utf8'
 $PSDefaultParameterValues['*:Encoding'] = 'utf8'
@@ -63,15 +67,32 @@ Foreach-Object {
         $issue_number = $item_name_array[0]
         Write-Host("Update de l'issue $issue_titre ")
         # confirm_to_continue("Update de l'issue $issue_titre ")
-        gh issue edit $issue_number --add-label feature,new_issue --add-project labs-web --body-file $item_full_name
+        gh issue edit $issue_number --add-label feature,new_issue --add-project $project_name --body-file $item_full_name
     }else{
 
         # Create issue
         $issue_titre = $item_name_array[0]
+
+        # Dection de membre 
+        $membre_titre_array = $issue_titre.Split("_");
+        Write-Host("membre_titre_array = $membre_titre_array")
+        $membre_reference = $null
+        if($membre_titre_array.Length -eq 2){
+            $membre_reference = $membre_titre_array[0]
+        }
+
+               
+
         Write-Host("Création de l'issue : $issue_titre ")
-        # confirm_to_continue("Création de l'issue : $issue_titre ")
-        gh issue create --title $issue_titre --add-label feature,new_issue --project labs-web  --body-file $item_full_name
-        
+        # confirm_to_continue("Création de l'issue : $issue_titre pour $membre_reference ")
+
+        if($membre_reference -eq $null){
+            gh issue create --title $issue_titre --label feature,new_issue --project $project_name  --body-file $item_full_name
+        }else{
+            gh issue create --title $issue_titre --label feature,new_issue --assignee $membre_reference  --project $project_name  --body-file $item_full_name 
+        }
+
+
         # Update item file name
         $created_issue = find_issue_by_title($issue_titre)
         $issue_number = $created_issue.number
