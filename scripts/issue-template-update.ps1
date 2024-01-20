@@ -1,4 +1,9 @@
-# Update issue template from lab-starter repository to all labs
+# Update issue template from gestion-projet repository to all labs
+
+# Emplacement des labs 
+$labs_web_path = $PSScriptRoot + "/../../"
+$gestion_projet_issue_template_path = $labs_web_path + "gestion-projet/.github/ISSUE_TEMPLATE/"
+cd $labs_web_path
 
 function confirm_to_continue($message) {
     $title    = $message 
@@ -10,29 +15,24 @@ function confirm_to_continue($message) {
     } 
 }
 
-# Emplacement des labs 
-$labs_web_path = $PSScriptRoot + "/../../"
-$lab_starter_issue_template_path = $labs_web_path + "lab-starter/.github/ISSUE_TEMPLATE/"
-cd $labs_web_path
-
-
 $labs_web = Get-ChildItem . -Filter * 
 
+# Copy template from gestion-projet to all labs
 foreach($lab_web in $labs_web){
 
+    # Nom de lab
     $lab_web_name = $lab_web.Name
     $lab_web_full_name =$lab_web.FullName 
 
-    # Ne pas toucher les template de lab-starter
-    if($lab_web.Name -eq "lab-starter"){continue}
+    # Ne pas toucher les template de gestion-projet
+    if($lab_web.Name -eq "gestion-projet"){continue}
 
+    # Message de confirmation
     Write-Host "Modifier les template de $lab_web_name"
     # confirm_to_continue("Modifier les template de $lab_web_name")
 
     # Delete templates if exist
     $issue_template_path = $lab_web_full_name + "/.github/ISSUE_TEMPLATE"
-
-
     if (Test-Path $issue_template_path) {
         Write-Host "Delete : $issue_template_path "
         rm $issue_template_path -r -force
@@ -46,8 +46,8 @@ foreach($lab_web in $labs_web){
         mkdir ($lab_web_full_name + "/.github/ISSUE_TEMPLATE")
     }
 
-    # # Copy files
-    copy-Item -Path ($labs_web_path + "lab-starter/.github/ISSUE_TEMPLATE/*") -Destination ($lab_web_full_name + "/.github/ISSUE_TEMPLATE/")
+    # Copy files
+    copy-Item -Path ("$gestion_projet_issue_template_path/*") -Destination ($lab_web_full_name + "/.github/ISSUE_TEMPLATE/")
 
 }
 
