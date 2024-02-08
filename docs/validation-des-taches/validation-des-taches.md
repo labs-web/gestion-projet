@@ -2,9 +2,8 @@
 
 # Les commentaires de validation 
 - la description de la tâche n'est pas valide
-- L'issue n'est pas liée avec le  pull request
+- L'issue n'est pas liée avec le  pull request ouvert
 - Le nom de la tache n'est pas valide : {{le nom valide }}
-- Il faut respecter l'ordre des tâches : {{la tache a realiser }}
 - Il faut respecter l'ordre des tâches 
     - la tache a realiser : {{la tache a realiser }}
 - la tache n'est pas assignée 
