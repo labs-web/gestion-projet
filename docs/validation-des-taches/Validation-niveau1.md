@@ -1,26 +1,29 @@
-# validation des tâches
+# Validation des tâches niveau 1
 
 # Les commentaires de validation 
    - le pullrequest a une conflit 
+
 
 ## 1 - Affection de la tâche
 - la tache n'est pas assignée 
 - l’équipe {{le nom d'équipe}} n'est pas en cours
 
-
-## La pullrequest est ouverte
-- L'issue n'est pas liée avec une pull request ouverte
-
-## Description de la tâche
-- la description de la tâche n'est pas valide
-- Le nom de la tache n'est pas valide : {{le nom valide }}
-
-
-## Priorité & ordre de la tâche
+## 2 - Priorité & ordre de la tâche
 - Il faut respecter l'ordre des tâches 
     - la tache a realiser : {{la tache a realiser }}
 
-## Livrable
+
+## 3 - La pullrequest est ouverte
+- L'issue n'est pas liée avec une pull request ouverte
+
+## 4 - Description de la tâche
+- la description de la tâche n'est pas valide
+  - Le nom de la tache n'est pas valide : {{le nom valide }}
+  - Le livrable n'est pas valide
+
+
+
+## 5 - Livrable
 - Livrable non valide
 - le résultat n'est pas conforme au livrables dans la description de l'issue
     - example :
@@ -29,6 +32,6 @@
 
 
 
-## compte rendu de la tâche
+## 6 - compte rendu de la tâche
 
 ## Présentation
