@@ -2,6 +2,10 @@
 
 # Les commentaires de validation 
 
+## 1 - Priorité & ordre de la tâche
+- Il faut respecter l'ordre des tâches 
+    - la tache a realiser : {{la tache a realiser }}
+
 ## 1 - Affection de la tâche
 - la tache n'est pas assignée 
 - l’équipe {{le nom d'équipe}} n'est pas en cours
@@ -15,9 +19,6 @@
 - Le nom de la tache n'est pas valide : {{le nom valide }}
 
 
-## Priorité & ordre de la tâche
-- Il faut respecter l'ordre des tâches 
-    - la tache a realiser : {{la tache a realiser }}
 
 ## Livrable
 - Livrable non valide
