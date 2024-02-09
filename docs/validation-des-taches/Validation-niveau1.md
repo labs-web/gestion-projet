@@ -1,6 +1,7 @@
 # Validation des tâches niveau 1
 
 # Les commentaires de validation 
+   - le pullrequest a une conflit 
 
 
 ## 1 - Affection de la tâche
