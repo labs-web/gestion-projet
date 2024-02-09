@@ -1,6 +1,7 @@
 # validation des tâches
 
 # Les commentaires de validation 
+   - le pullrequest a une conflit 
 
 ## 1 - Affection de la tâche
 - la tache n'est pas assignée 
