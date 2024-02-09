@@ -10,3 +10,5 @@
 - Livrable non valide
 - le résultat n'est pas conforme au livrables dans la description de l'issue
 - l’équipe {{le nom d'équipe}} n'est pas en cours
+- le lien du rapport n'exist pas  dans le fichier README.md
+- le lien de presentation n'exist pas  dans le fichier README.md
