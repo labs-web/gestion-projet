@@ -12,7 +12,8 @@
 
 ## Description de la tâche
 - la description de la tâche n'est pas valide
-- Le nom de la tache n'est pas valide : {{le nom valide }}
+  - Le nom de la tache n'est pas valide : {{le nom valide }}
+  - Le livrable n'est pas valide
 
 
 ## Priorité & ordre de la tâche
