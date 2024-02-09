@@ -2,25 +2,26 @@
 
 # Les commentaires de validation 
 
-## 1 - Priorité & ordre de la tâche
-- Il faut respecter l'ordre des tâches 
-    - la tache a realiser : {{la tache a realiser }}
 
 ## 1 - Affection de la tâche
 - la tache n'est pas assignée 
 - l’équipe {{le nom d'équipe}} n'est pas en cours
 
+## 2 - Priorité & ordre de la tâche
+- Il faut respecter l'ordre des tâches 
+    - la tache a realiser : {{la tache a realiser }}
 
-## La pullrequest est ouverte
+
+## 3 - La pullrequest est ouverte
 - L'issue n'est pas liée avec une pull request ouverte
 
-## Description de la tâche
+## 4 - Description de la tâche
 - la description de la tâche n'est pas valide
 - Le nom de la tache n'est pas valide : {{le nom valide }}
 
 
 
-## Livrable
+## 5 - Livrable
 - Livrable non valide
 - le résultat n'est pas conforme au livrables dans la description de l'issue
     - example :
@@ -29,6 +30,6 @@
 
 
 
-## compte rendu de la tâche
+## 6 - compte rendu de la tâche
 
 ## Présentation
