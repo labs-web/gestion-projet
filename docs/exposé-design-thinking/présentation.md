@@ -1,6 +1,5 @@
 # Présentation
 
-
 ## Introduction
 ![Exposé design thinking](./images/exposé-design-thinking.png)
 
