@@ -1,25 +1,38 @@
+---
+layout: presentation
+expose: Exposé design thinking
+order: 1
+---
+
 # Présentation
+<!-- new slide -->
 
 ## Introduction
-![Exposé design thinking](./images/exposé-design-thinking.png)
+![Exposé design thinking](/gestion-projet/exposé-design-thinking/images/exposé-design-thinking.png)
 
+<!-- new slide -->
 ## Empathie
-![Empathie](./images/Empathie.png)
+![Empathie](/gestion-projet/exposé-design-thinking/images/Empathie.png)
 
+<!-- new slide -->
 ## Définir le problème
-![Définir le problème](./images/Définir-le-problème.png)
+![Définir le problème](/gestion-projet/exposé-design-thinking/images/Définir-le-problème.png)
 
+<!-- new slide -->
 ## Idéation
-![Idéation](./images/Idéation.png)
+![Idéation](/gestion-projet/exposé-design-thinking/images/Idéation.png)
 
+<!-- new slide -->
 ## Prototype
-![Prototype](./images/Prototype.png)
+![Prototype](/gestion-projet/exposé-design-thinking/images/Prototype.png)
 
+<!-- new slide -->
 ## Test
-![Test](./images/Test.png)
+![Test](/gestion-projet/exposé-design-thinking/images/Test.png)
 
+<!-- new slide -->
 ## Implement
-![Implement](./images/Implement.png)
+![Implement](/gestion-projet/exposé-design-thinking/images/Implement.png)
 
-
+<!-- new slide -->
 ## Conclusion
