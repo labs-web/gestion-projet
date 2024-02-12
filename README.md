@@ -16,7 +16,7 @@ Le backlog est une liste ordonées des tâches
 - **feature** 
   - [0.Auto-evaluation.31.md](./Backlog/feature/0.Auto-evaluation.31.md) 
   - [0.Les membres peuvent merge pull request après la validation de code reviwer.17.md](./Backlog/feature/0.Les membres peuvent merge pull request après la validation de code reviwer.17.md) 
-  - [0.Script : Copier les templates des issues dans tous les dépôt de l'organisation.16.md](./Backlog/feature/0.Script : Copier les templates des issues dans tous les dépôt de l'organisation.16.md) 
+  - [0.Script-Copier les templates des issues dans tous les dépôt de l'organisation.16.md](./Backlog/feature/0.Script-Copier les templates des issues dans tous les dépôt de l'organisation.16.md) 
   - [0.validation  des taches .32.md](./Backlog/feature/0.validation  des taches .32.md) 
   - [1.backlog.18.md](./Backlog/feature/1.backlog.18.md) 
   - [2.validation-des-taches.36.md](./Backlog/feature/2.validation-des-taches.36.md) 
