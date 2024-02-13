@@ -11,7 +11,7 @@ order: 1
 # expose des phase de notre processus
 
 <!-- new slide -->
-### Introduction
+## Introduction
 
 ![Les phase de notre processus](../expose-des-phase-de-notre-processus/images/Exposé-des-phase-de-notre-processus.png)
 
@@ -21,8 +21,8 @@ Dans notre processus de développement, nous suivons une approche structurée co
 
 
 
-### Lien de Présentation
+## Lien de Présentation
 [Présentation expose des phase de notre processus](/gestion-projet/expose-des-phase-de-notre-processus/présentation.html)
 
-### Lien de Rapport
+## Lien de Rapport
 [Rapport expose des phase de notre processus](/gestion-projet/expose-des-phase-de-notre-processus/rapport.html)  
