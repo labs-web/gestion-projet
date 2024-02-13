@@ -102,7 +102,7 @@ section.has-dark-background h6 {
 .reveal h2 {
   background-color: #00838F;
   color: white;
-
+  padding: 10px;
 }
 
 .reveal h1 {
@@ -118,6 +118,7 @@ section.has-dark-background h6 {
   font-size: var(--r-heading3-size);
   background-color: #00838F;
   color: white;
+  padding: 10px;
 }
 
 .reveal h4 {
