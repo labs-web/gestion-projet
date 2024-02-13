@@ -1,6 +1,6 @@
 # validation des tâches
 
-# Les commentaires de validation 
+## Les commentaires de validation 
 
 ## 1 - Affection de la tâche
 - la tache n'est pas assignée 
