@@ -1,7 +1,7 @@
-# Rapport
+# 2TUP
 
 ## Introduction
-![managment](/gestion-projet/5.Expose-2tup/images/managment.jpg){:width="50%" }
+![managment](/gestion-projet/5.Expose-2tup/images/managment.jpg){:width="50%" }*figure 1: management de projet*
 
 2TUP (2 track unified process) est un processus de développement logiciel qui implémente le Processus Unifié.
 
@@ -9,7 +9,7 @@ Le 2TUP propose un cycle de développement en Y, qui dissocie les aspects techni
 
 
 ## Les branches de méthode 2tup
-![2tup](/gestion-projet/5.Expose-2tup/images/2tup.png){:width="50%"  }
+![2tup](/gestion-projet/5.Expose-2tup/images/2tup.png){:width="50%"  }*figure 2: Les branches de 2tup*
 ### La branche fonctionnelle
 - La capture des besoins fonctionnels, qui produit un modèle des besoins focalisé sur le métier des utilisateurs. Elle qualifie au plus tôt le risque de produire un système inadapté aux utilisateurs. De son côté, la maîtrise d’œuvre consolide les spécifications et en vérifie la cohérence et l’exhaustivité 
 - L’analyse, qui consiste à étudier précisément la spécification fonctionnelle de manière à obtenir une idée de ce que va réaliser le système en termes de métier. Les résultats de l’analyse ne dépendent d’aucune technologie particulière.
@@ -22,7 +22,7 @@ Le 2TUP propose un cycle de développement en Y, qui dissocie les aspects techni
 La phase de réalisation est cruciale car c'est à ce stade que le produit prend forme en tant qu'entité complète. C'est également le moment où l'interaction entre les équipes fonctionnelles et techniques est maximale, car les fonctionnalités et la technologie se rejoignent pour créer le produit final. Cette phase se compose généralement de trois parties principales : la conception, le codage et les tests, ainsi que la recette. Une fois cette phase terminée avec succès, le produit est prêt à être mis à disposition des utilisateurs finaux.
 
 ## Les avantages de méthode 2tup
-![advantages](/gestion-projet/5.Expose-2tup/images/advantages.png){:width="30%" }
+![advantages](/gestion-projet/5.Expose-2tup/images/advantages.png){:width="30%" }*figure 3: Les aventages*
 
 1. Clarification des objectifs : La méthode en Y permet de clarifier les objectifs du projet dès le départ, ce qui favorise une meilleure compréhension de ce qui doit être accompli.
 2. Hiérarchisation des tâches : Elle permet de hiérarchiser les tâches en distinguant les étapes nécessaires à la réalisation du projet.
@@ -30,7 +30,7 @@ La phase de réalisation est cruciale car c'est à ce stade que le produit prend
 4. Suivi et contrôle : La structure en Y facilite le suivi et le contrôle du projet, car il est plus facile d'identifier les écarts par rapport au plan initial.
 
 ## Les inconvénients de méthode 2tup
-![disadvantages](/gestion-projet/5.Expose-2tup/images/disadvantages.jpg){:width="30%" }
+![disadvantages](/gestion-projet/5.Expose-2tup/images/disadvantages.jpg){:width="30%" }*figure 4: Les inconvénients*
 
 1. Complexité : Les méthodes en Y peuvent être plus complexes à mettre en œuvre que des approches plus linéaires, ce qui peut nécessiter plus de ressources et d'expertise.
 2. Temps : Elles peuvent prendre plus de temps en raison des étapes supplémentaires et de la coordination nécessaire entre les branches du "Y".
