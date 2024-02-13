@@ -3,9 +3,9 @@ layout: default
 chapitre: Backlog
 order: 2
 ---
-## Backlog
+# Backlog
 <!-- new slide -->
-### Structure des dossiers
+## Structure des dossiers
 
 <!-- note -->
 - docs
