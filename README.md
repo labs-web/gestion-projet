@@ -37,4 +37,4 @@ Le backlog est une liste ordonées des tâches
  
 
 - [Images](https://docs.google.com/presentation/d/15cV0zoqaSm685Vzo-5psqUziEoH_-7yvNV_VfifKBa4/edit#slide=id.g2b67c13cdef_0_0) 
-
+- [init-presentation](https://labs-web.github.io/gestion-projet/presentation.html/)
