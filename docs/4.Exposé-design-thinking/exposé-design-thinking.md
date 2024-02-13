@@ -1,7 +1,7 @@
 ---
 layout: default
 chapitre: Exposé design thinking
-order: 1
+order: 4
 ---
 
 ## Exposé design thinking       

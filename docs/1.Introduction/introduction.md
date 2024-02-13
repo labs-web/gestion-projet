@@ -1,10 +1,8 @@
 ---
 layout: default
-title: introduction
-slug: /introduction
+chapitre: Introduction
 order: 1
 ---
 
 ## Introduction
-
 !['introduction'](./images/introduction.PNG)
