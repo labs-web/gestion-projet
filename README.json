@@ -1,6 +1,6 @@
 {
     "Introduction":{
-        "Titre" :"",
+        "Titre" :"Gestion projet",
         "Reference":"",
         "Description" : ""
     },
@@ -29,9 +29,20 @@
         "Introduction":"",
         "References": [
             {
-                "Titre":"Images",
-                "Lien":"https://docs.google.com/presentation/d/15cV0zoqaSm685Vzo-5psqUziEoH_-7yvNV_VfifKBa4/edit#slide=id.g2b67c13cdef_0_0"
+                "Titre":"Autoformation",
+                "Lien":"#"
+            },
+            {
+                "Titre" : "Rapport de gestion de projet",
+                "Lien":"http://labs-web.github.io/gestion-projet/rapport.html"
+
+            },
+            {
+                "Titre" : "Présentation de gestion de projet",
+                "Lien":"http://labs-web.github.io/gestion-projet/presentation.html"
+
             }
+
            
         ]
     } 

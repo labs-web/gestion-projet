@@ -1,6 +1,5 @@
 ---
 layout: presentation
-expose: Exposé design thinking
 order: 1
 ---
 
