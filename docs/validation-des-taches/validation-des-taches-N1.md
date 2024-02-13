@@ -1,5 +1,3 @@
-<!-- new slide -->
-
 # validation des tâches
 <!-- new slide -->
 
@@ -41,3 +39,5 @@
 <!-- new slide -->
 
 ## Présentation
+
+<!-- new slide -->
