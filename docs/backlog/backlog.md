@@ -9,8 +9,6 @@ order: 2
 
 ### Structure des dossiers
 
-![structure](./images/structer.jpg)
-
 <!-- note -->
 - docs
   - index.md
