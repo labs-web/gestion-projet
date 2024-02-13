@@ -1,6 +1,13 @@
-# validation des tâches
+---
+layout: default
+title: validation des tâches
+slug: /validation-des-tâches2
+order: 3
+---
+
 <!-- new slide -->
 
-## Les commentaires de validation 
-<!-- new slide -->
+## validation des tâches
+<!-- note -->
+Les commentaires de validation
 
