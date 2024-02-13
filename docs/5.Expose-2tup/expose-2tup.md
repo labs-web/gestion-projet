@@ -1,13 +1,13 @@
 ---
 layout: default
 chapitre: Exposé 2tup
-order: 1
+order: 5
 ---
 
 # Exposé 2tup    
 <!-- new slide -->
 ### Introduction
-![2tup](../Expose-2tup/images/2tup.png){:width="50%"  }
+![2tup](../5.Expose-2tup/images/2tup.png){:width="50%"  }
 <!-- note -->
 
 2TUP (2 track unified process) est un processus de développement logiciel qui implémente le Processus Unifié.
@@ -19,7 +19,8 @@ Le 2TUP propose un cycle de développement en Y, qui dissocie les aspects techni
 - Une phase de réalisation
 
 ### Lien de Présentation
-[Présentation exposé 2tup](/gestion-projet/Expose-2tup/presentation.html)
+[Présentation exposé 2tup](/gestion-projet/5.Expose-2tup/presentation.html)
 
 ### Lien de Rapport
-[Rapport exposé 2tup](/gestion-projet/Expose-2tup/rapport.md)  
+[Rapport exposé 2tup](/gestion-projet/5.Expose-2tup/rapport.md)  
+<!-- new slide -->

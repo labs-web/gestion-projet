@@ -1,7 +1,7 @@
 # Rapport
 
 ## Introduction
-![2tup](exposé-design-thinking)
+![2tup](../5.Expose-2tup/images/2tup.png){:width="50%"  }
 
 2TUP (2 track unified process) est un processus de développement logiciel qui implémente le Processus Unifié.
 
