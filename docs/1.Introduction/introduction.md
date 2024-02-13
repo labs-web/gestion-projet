@@ -5,4 +5,5 @@ order: 1
 ---
 
 ## Introduction
-!['introduction'](./images/introduction.PNG)
+!['introduction'](/gestion-projet/1.Introduction/images/introduction.PNG)
+<!-- new slide -->

@@ -3,7 +3,6 @@ layout: default
 chapitre: Backlog
 order: 2
 ---
-<!-- new slidenew slide -->
 ## Backlog
 ### Structure des dossiers
 
@@ -20,3 +19,5 @@ order: 2
     - conclusion.md
   - rapport.md
   - présentation.html
+
+<!-- new slide -->
