@@ -3,10 +3,8 @@ layout: default
 title: structure-des-dossiers.md
 order: 2
 ---
-<!-- new slide -->
-
+<!-- new slidenew slide -->
 ## Backlog
-
 ### Structure des dossiers
 
 <!-- note -->
