@@ -1,3 +1,4 @@
+<!-- new slide -->
 # validation des tâches
 <!-- new slide -->
 
