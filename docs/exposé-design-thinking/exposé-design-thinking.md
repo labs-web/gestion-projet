@@ -13,7 +13,7 @@ Le design thinking est une approche centrée sur l'humain pour résoudre des pro
 Les étapes de design thinking : 
 
 ### Lien de Présentation
-[Présentation exposé design thinking](/gestion-projet/exposé-design-thinking/présentation.html){:width="50%"  }
+[Présentation exposé design thinking](/gestion-projet/exposé-design-thinking/présentation.html)
 
 ### Lien de Rapport
 [Rapport exposé design thinking](/gestion-projet/exposé-design-thinking/rapport.html)  
