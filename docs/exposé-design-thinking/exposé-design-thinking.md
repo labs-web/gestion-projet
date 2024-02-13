@@ -16,4 +16,4 @@ Les étapes de design thinking :
 [Présentation exposé design thinking](/gestion-projet/exposé-design-thinking/présentation.html){:width="50%"  }
 
 ### Lien de Rapport
-[Rapport exposé design thinking](/gestion-projet/exposé-design-thinking/rapport.md)  
+[Rapport exposé design thinking](/gestion-projet/exposé-design-thinking/rapport.html)  
