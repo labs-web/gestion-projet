@@ -1,4 +1,4 @@
-# Rapport
+# Design thinking
 
 ## Introduction
 ![Exposé design thinking](/gestion-projet/4.Exposé-design-thinking/images/exposé-design-thinking.png)
