@@ -1,7 +1,10 @@
 ---
 layout: default
+title: introduction
+slug: /introduction
 order: 1
 ---
-<!-- new slide -->
 
-# Introduction
+## Introduction
+
+!['introduction'](./images/introduction.PNG)

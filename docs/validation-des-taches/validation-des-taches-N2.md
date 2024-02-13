@@ -1,4 +1,4 @@
 # validation des tâches
 
-<!-- new slide -->
-# Les commentaires de validation
+## Les commentaires de validation 
+

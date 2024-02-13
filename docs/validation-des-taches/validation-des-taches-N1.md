@@ -1,7 +1,7 @@
 # validation des tâches
 <!-- new slide -->
 
-# Les commentaires de validation 
+## Les commentaires de validation 
 <!-- new slide -->
 
 ## 1 - Affection de la tâche
