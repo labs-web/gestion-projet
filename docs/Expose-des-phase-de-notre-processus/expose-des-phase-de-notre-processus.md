@@ -4,11 +4,35 @@ chapitre: Expose des phase de notre processus
 order: 1
 ---
 
-## Expose des phase de notre processus       
+## phase de notre processus       
 <!-- new slide -->
+
 ### Introduction
-![introduction]()
+![introduction](/gestion-projet/exposé-design-thinking/images/exposé-design-thinking.png)
+
 <!-- note -->
+
+### Besoin
+#### Contexte du projet
+#### Empathie
+#### Définition de problème
+#### Idéation
+
+### Analyse
+#### Diaagrame de Cas d'utilisation
+
+### Analyse techniaue
+
+### conciption
+#### Diagrame de class
+
+### conciption giniriaue
+#### Maquettes
+
+### prototype
+
+### Réalisaion
+
  
  ### test
     - besoin
