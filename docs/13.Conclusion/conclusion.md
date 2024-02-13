@@ -1,8 +1,6 @@
 ---
 layout: default
-title: conclusion
-slug: /conclusion
-order: 3
+order: 4
 ---
 <!-- new slide -->
 # conclusion
