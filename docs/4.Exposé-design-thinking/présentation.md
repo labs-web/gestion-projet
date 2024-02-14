@@ -3,7 +3,7 @@ layout: presentation
 order: 1
 ---
 
-# Présentation
+# Design thinking
 <!-- new slide -->
 
 ## Introduction
