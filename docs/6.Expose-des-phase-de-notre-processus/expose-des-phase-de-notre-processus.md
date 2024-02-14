@@ -15,8 +15,8 @@ Dans notre processus de développement, nous suivons une approche structurée co
 
 <!-- new slide -->
 
-## Lien de Présentation
-[Présentation expose des phase de notre processus](/gestion-projet/6.Expose-des-phase-de-notre-processus/présentation.html)
-
 ## Lien de Rapport
 [Rapport expose des phase de notre processus](/gestion-projet/6.Expose-des-phase-de-notre-processus/rapport.html)  
+
+## Lien de Présentation
+[Présentation expose des phase de notre processus](/gestion-projet/6.Expose-des-phase-de-notre-processus/presentation.html)

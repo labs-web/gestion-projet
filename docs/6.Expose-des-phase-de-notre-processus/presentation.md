@@ -24,6 +24,11 @@ order: 1
 ![Analyse-technique](../6.Expose-des-phase-de-notre-processus/images/analyse-technique.png){:width="500px"}
 <!-- new slide -->
 
+## Conception generique
+![conception-generique](../6.Expose-des-phase-de-notre-processus/images/conception-generique.png){:width="500px"}
+<!-- new slide -->
+
+
 ## Prototype
 ![Prototype](../6.Expose-des-phase-de-notre-processus/images/Prototype.png){:width="500px"}
 <!-- new slide -->
