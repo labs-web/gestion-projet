@@ -92,7 +92,6 @@ code {
 	border-radius: 2px;
 }
 
-
 /* 
 * Images
 */
@@ -147,96 +146,56 @@ h1::after {
 h1 {
 	/* saute de page avant h1 */
 	page-break-before: always;
-
 	margin-top: 12.0pt;
-	margin-right: 0cm;
-	margin-left: 0cm;
 	margin-bottom: 1pt;
-	line-height: 107%;
-	page-break-after: avoid;
 	font-size: 25.0pt;
 	color: #2E74B5;
-	font-weight: normal;
 }
 
 h2 {
 	/* margin-top:2.0pt; */
-	margin-right: 0cm;
-	margin-left: 0cm;
-	margin-bottom: 1pt;
-	line-height: 107%;
-	page-break-after: avoid;
+	margin-bottom: 5pt;
 	font-size: 18.0pt;
 	color: #2E74B5;
-	font-weight: normal;
 }
 
 h3 {
 	/* margin-top:2.0pt; */
-	margin-right: 0cm;
-	margin-left: 0cm;
-	margin-bottom: 1pt;
-	line-height: 107%;
-	page-break-after: avoid;
 	font-size: 15.0pt;
+	margin-bottom: 1pt;
 	color: #1F4D78;
-	font-weight: normal;
 }
 
 h4 {
 	/* margin-top:2.0pt; */
-	margin-right: 0cm;
-	margin-left: 0cm;
-	margin-bottom: 1pt;
-	line-height: 107%;
-	page-break-after: avoid;
 	font-size: 14.0pt;
+	margin-bottom: 1pt;
 	color: #2E74B5;
-	font-weight: normal;
 	font-style: italic;
 }
 
 h5 {
 	/* margin-top:2.0pt; */
-	margin-right: 0cm;
-	margin-left: 0cm;
-	margin-bottom: 1pt;
-	line-height: 107%;
-	page-break-after: avoid;
 	font-size: 13.0pt;
+	margin-bottom: 1pt;
 	color: #2E74B5;
-	font-weight: normal;
 }
 
 h6 {
 	/* margin-top:2.0pt; */
+	font-size: 12.0pt;
+	margin-bottom: 1pt;
+	color: #1F4D78;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
 	margin-right: 0cm;
 	margin-left: 0cm;
-	margin-bottom: 1pt;
 	line-height: 107%;
 	page-break-after: avoid;
-	font-size: 12.0pt;
-	color: #1F4D78;
 	font-weight: normal;
-}
-
-/* Table de matière */
-
-#table-de-matière+ul li a {
-	font-weight: bold;
-	display: block;
-	padding: 5px 10px;
-	text-decoration: none;
-	color: #333;
-	margin-bottom: 5px;
-	transition: background-color 0.3s, color 0.3s;
-}
-
-#table-de-matière+ul {
-	list-style-type: none;
-}
-
-#table-de-matière+ul li a:hover {
-	color: #777;
-	/* Change text color on hover */
 }
