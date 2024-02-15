@@ -17,6 +17,6 @@ Creation de backlog des tâches à réalisé
   - presentation
   - rapport
 - Rédaction d'expose des phase de notre processus
-  - Exposé des phase de notre processus
+  - Exposé des phase de notre processus 
   - presentation
   - rapport
