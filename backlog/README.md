@@ -16,7 +16,7 @@ Creation de backlog des tâches à réalisé
   - Exposé de design thinking
   - presentation
   - rapport
-- Rédaction d'expose des phase de notre processus
+- Rédaction d'expose des phase de notre processus 
   - Exposé des phase de notre processus
   - presentation
   - rapport
