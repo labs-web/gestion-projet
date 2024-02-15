@@ -8,7 +8,6 @@ Creation de backlog des tâches à réalisé
   - ajouter les tâches
   - création des fichiers de description des tâches
   - init rapport
-    - table de matière
   - init présentation
 - Rédaction d'exposé de design thinking
   - Exposé de design thinking
