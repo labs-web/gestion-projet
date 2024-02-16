@@ -4,16 +4,15 @@ chapitre: description des tache
 order: 7
 ---
 # description des tache 
-Donnez une description de la tâche et indiquez ce que vous allez faire à l'intérieur
 
 ## feature 
-
+Donnez une description de la tâche et indiquez ce que vous allez faire à l'intérieur
 ### livrable 
 - docs/Nom de tache/Nom-de-tache.md
 - docs/Nom de tache/images/ *
 - ... 
 ## exposé 
-Donnez un interdiction sur l’exposé
+Donnez un interdiction sur l’exposé 
 
 ### livrable 
 - docs/Nom de tache/Nom-de-tache.md
