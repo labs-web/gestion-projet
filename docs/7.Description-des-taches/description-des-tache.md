@@ -6,57 +6,10 @@ order: 7
 # description des tache 
 
 ## feature 
-Donnez une description de la tâche et indiquez ce que vous allez faire à l'intérieur
-### livrable 
-- docs/Nom de tache/Nom-de-tache.md
-- docs/Nom de tache/images/ *
-- ... 
-## exposé 
-Donnez un interdiction sur l’exposé 
-
-### livrable 
-- docs/Nom de tache/Nom-de-tache.md
- - résumé  
-- docs/Nom de tache/images/ *
--  docs/Nom de tache/rapport.md
--  docs/Nom de tache/presentation.md
-
+Le terme "feature" (fonctionnalité) fait référence à une caractéristique spécifique ou à une capacité distincte d'un produit
 ## bug
-### Description de bug
-- Donnez une description de l’erreur 
-
-### Production de l'erreur 
- - donnez les étapes pour reproduit l’erreur
-
- 
-
-### Solution 
-- donez les étapes pour résoudre l’erreur
-
-
-### livrable 
-- docs/nom de bug/nom-de-bug.md
-- ...
+Un "bug" (bogue) se réfère à un défaut ou à une anomalie dans un logiciel, une application
 ## thème
-## Travail à faire 
-
-### Backlog 
-- Création de l'issue [feature] : backlog
-- Création de l'issue [sous-tâche] : init-rapport
-- Création de l'issue [sous-tâche] : init-présentation
-
-### Init rapport et présentation
-Avant de commencer le backlog, essayer de réaliser les deux tâches suivantes : 
-
-- init-rapport : Élaboration d'un rapport sans contenu avec les pages et leurs titres
-  - docs/rapport.md
-- init-présentation : Création d'une présentation sans contenu, mais avec les titres des diapositives
-  - docs/présentation.md
- 
-
-### Code Review et merge pullrequest
-- Validation des pullrequest
-- Accepter les pullrequests valide et correcte
-- Création d'une pullrequest de develop vers main pour valider les travaux avec le formateur
-
-  
+le terme "thème" peut également être utilisé pour décrire un regroupement conceptuel ou une catégorie générale de fonctionnalités, de tâches ou de développements qui partagent un objectif commun
+## Lien de Rapport
+[Rapport expose des phase de notre processus](/gestion-projet/7.Description-des-taches/rapport.html)  
