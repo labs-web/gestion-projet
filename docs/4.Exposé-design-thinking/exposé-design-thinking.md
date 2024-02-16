@@ -7,6 +7,7 @@ order: 4
 # Exposé design thinking       
 <!-- new slide -->
 ## Introduction design thinking
+
 ![Exposé design thinking](/gestion-projet/4.Exposé-design-thinking/images/exposé-design-thinking.png)
 *figure: design thinking*
 
