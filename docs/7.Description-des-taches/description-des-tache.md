@@ -37,7 +37,7 @@ Donnez un interdiction sur l’exposé
 ### livrable 
 - docs/nom de bug/nom-de-bug.md
 - ...
-## théme
+## thème
 ## Travail à faire 
 
 ### Backlog 
@@ -51,8 +51,8 @@ Avant de commencer le backlog, essayer de réaliser les deux tâches suivantes :
 - init-rapport : Élaboration d'un rapport sans contenu avec les pages et leurs titres
   - docs/rapport.md
 - init-présentation : Création d'une présentation sans contenu, mais avec les titres des diapositives
-  - docs/présentation-data.md
-  - docs/présentation.html
+  - docs/présentation.md
+ 
 
 ### Code Review et merge pullrequest
 - Validation des pullrequest
