@@ -1,7 +1,7 @@
 ---
 layout: default
 chapitre: description des tache
-order: 1
+order: 7
 ---
 # description des tache 
 Donnez une description de la tâche et indiquez ce que vous allez faire à l'intérieur
@@ -13,6 +13,7 @@ Donnez une description de la tâche et indiquez ce que vous allez faire à l'int
 - docs/Nom de tache/images/ *
 - ... 
 ## exposé 
+Donnez un interdiction sur l’exposé
 
 ### livrable 
 - docs/Nom de tache/Nom-de-tache.md
@@ -33,10 +34,11 @@ Donnez une description de la tâche et indiquez ce que vous allez faire à l'int
 ### Solution 
 - donez les étapes pour résoudre l’erreur
 
+
 ### livrable 
 - docs/nom de bug/nom-de-bug.md
 - ...
-
+## théme
 ## Travail à faire 
 
 ### Backlog 
