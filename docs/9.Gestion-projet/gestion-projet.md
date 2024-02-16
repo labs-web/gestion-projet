@@ -4,8 +4,11 @@ chapitre: gestion-projet
 order: 7
 ---
 
+<!-- new slide -->
+
 # Gestion projet
 
+<!-- new slide -->
 
 ## Comment définir la gestion de projet ?  
 
@@ -61,3 +64,6 @@ Pour ce faire, il faut définir les objectifs, les ressources humaines et matér
 ## Référence
 
 - [https://docs.google.com/presentation/d/1_W6REKXAGp0wadeA-cnxRChfn9jjdFh_4zLYX2DVDls/edit?usp=sharing](https://docs.google.com/presentation/d/1_W6REKXAGp0wadeA-cnxRChfn9jjdFh_4zLYX2DVDls/edit?usp=sharing)
+
+
+<!-- new slide -->
