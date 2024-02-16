@@ -3,7 +3,25 @@ layout: default
 chapitre: description des tache
 order: 7
 ---
-# description des tache 
+# description des tache
+## plan
+- [description des tache](#description-des-tache)
+  - [plan](#plan)
+  - [feature](#feature)
+    - [livrable](#livrable)
+  - [exposé](#exposé)
+    - [livrable](#livrable-1)
+  - [bug](#bug)
+    - [Description de bug](#description-de-bug)
+    - [Production de l'erreur](#production-de-lerreur)
+    - [Solution](#solution)
+    - [livrable](#livrable-2)
+  - [thème](#thème)
+  - [Travail à faire](#travail-à-faire)
+    - [Backlog](#backlog)
+    - [Init rapport et présentation](#init-rapport-et-présentation)
+    - [Code Review et merge pullrequest](#code-review-et-merge-pullrequest)
+
 
 ## feature 
 Donnez une description de la tâche et indiquez ce que vous allez faire à l'intérieur
