@@ -4,6 +4,15 @@ chapitre: description des tache
 order: 7
 ---
 # description des tache 
+# Travail à faire 
+- Création des template pour la description des tâches 
+ - exposé
+ - bug
+ - feature
+ - thème
+ # livrable 
+- docs/ description des tâches/ description-des-tâches.md
+-  docs/ description des tâches/ images/ *
 
 ## feature 
 Donnez une description de la tâche et indiquez ce que vous allez faire à l'intérieur
