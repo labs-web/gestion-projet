@@ -10,13 +10,17 @@
 
 <!-- new slide -->
 
-## La pullrequest est ouverte
+## La pullrequest 
 - L'issue n'est pas liée avec une pull request ouverte
+- Il existe des conflits
+- Il existe plusieurs pullrequest ouvert pour l'issue
+
 <!-- new slide -->
 
 ## Description de la tâche
 - la description de la tâche n'est pas valide
 - Le nom de la tache n'est pas valide : {{le nom valide }}
+- Il faut respecter les templates de description des tâches
 <!-- new slide -->
 
 
