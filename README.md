@@ -20,11 +20,13 @@ Le backlog est une liste ordonées des tâches
   - [0.validation  des taches .32.md](./Backlog/feature/0.validation  des taches .32.md) 
   - [1.backlog.18.md](./Backlog/feature/1.backlog.18.md) 
   - [2.validation-des-taches.36.md](./Backlog/feature/2.validation-des-taches.36.md) 
-  - [3.init-rapport.34.md](./Backlog/feature/3.init-rapport.34.md) 
-  - [4.init-presentation.35.md](./Backlog/feature/4.init-presentation.35.md) 
+  - [23.sécurité-labs.md](./Backlog/feature/23.sécurité-labs.md) 
+  - [4.description-des-tâches.md](./Backlog/feature/4.description-des-tâches.md) 
+  - [5.table-de-matière.65.md](./Backlog/feature/5.table-de-matière.65.md) 
+  - [Gestion-des-temps.md](./Backlog/feature/Gestion-des-temps.md) 
+  - [Gestion-projet.md](./Backlog/feature/Gestion-projet.md) 
 - **sous-tâche** 
-  - [1.init-rapport.34.md](./Backlog/sous-tâche/1.init-rapport.34.md) 
-  - [2.init-presentation.35.md](./Backlog/sous-tâche/2.init-presentation.35.md) 
+  - [init-lab.34.md](./Backlog/sous-tâche/init-lab.34.md) 
 - **thème** 
 ## Livrables 
 
