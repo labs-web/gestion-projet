@@ -4,6 +4,7 @@ chapitre: gestion-projet
 order: 7
 ---
 
+
 <!-- new slide -->
 
 # Gestion projet
@@ -12,21 +13,18 @@ order: 7
 
 ## Comment définir la gestion de projet ?  
 
-![Gestion projet](/gestion-projet/9.Gestion-projet/images/gestion-projet.png){:width="500px"}*figure: Gestion projet*
+![Gestion projet](./images/gestion-projet.png){:width="500px"}*figure: Gestion projet*
 
 <!-- note -->
+
 La gestion de projet, ou le management de projet, consiste à organiser le déroulement d’un projet de A à Z, de sa phase de conception à sa phase finale. 
 Pour ce faire, il faut définir les objectifs, les ressources humaines et matérielles nécessaires, le budget, les délais et les contraintes éventuelles.
 
-
-
 <!-- new slide -->
-
 
 ## Les principales étapes de la gestion de projet 
 
-
-![Les principales étapes de la gestion de projet](/gestion-projet/9.Gestion-projet/images/etapes.png){:width="500px"}*figure: Les principales étapes de la gestion de projet*
+![Les principales étapes de la gestion de projet](./images/etapes.png){:width="500px"}*figure: Les principales étapes de la gestion de projet*
 
 <!-- note -->
 
@@ -40,14 +38,11 @@ Pour ce faire, il faut définir les objectifs, les ressources humaines et matér
 
 - Clôture : Cette étape consiste à terminer le projet et à livrer les résultats. Elle comprend le transfert des résultats aux utilisateurs et la fin de l'équipe de projet.
 
-
 <!-- new slide -->
 
 ## Les méthodes adopter pour la gestion de projet 
 
-
-![Les méthodes adopter pour la gestion de projet](/gestion-projet/9.Gestion-projet/images/methods.png){:width="500px"}*figure: Les méthodes adopter pour la gestion de projet*
-
+![Les méthodes adopter pour la gestion de projet](./images/methods.png){:width="500px"}*figure: Les méthodes adopter pour la gestion de projet*
 
 <!-- note -->
 
@@ -58,12 +53,10 @@ Pour ce faire, il faut définir les objectifs, les ressources humaines et matér
 - L’approche Scrum
 - La méthode de GANTT
 
-
 <!-- new slide -->
 
 ## Référence
 
 - [https://docs.google.com/presentation/d/1_W6REKXAGp0wadeA-cnxRChfn9jjdFh_4zLYX2DVDls/edit?usp=sharing](https://docs.google.com/presentation/d/1_W6REKXAGp0wadeA-cnxRChfn9jjdFh_4zLYX2DVDls/edit?usp=sharing)
-
 
 <!-- new slide -->
